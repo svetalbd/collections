@@ -16,7 +16,7 @@ public class Table {
     private JPanel Collection;
 
     public static void createGUI(int i) {
-        JFrame frame = new JFrame("Collections");
+        JFrame frame = new JFrame("Collections: "+String.valueOf(i)+ " elements");
         frame.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
         Measure measure = new Measure();
 
