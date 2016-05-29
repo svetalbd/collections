@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * Created by Сергей on 26.05.2016.
+ * Created by Mykhailenko Svitlana on 26.05.2016.
  */
 public class WriteToFile {
 

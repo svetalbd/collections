@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.ListIterator;
 
 /**
- * Created by Сергей on 25.05.2016.
+ * Created by Mykhailenko Svitlana on 25.05.2016.
  */
 public class TimerLinkedList extends TimerCollection {
     private LinkedList<Integer> linkedList = new LinkedList<Integer>();

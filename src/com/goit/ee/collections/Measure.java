@@ -9,7 +9,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * Created by Сергей on 25.05.2016.
+ * Created by Mykhailenko Svitlana on 25.05.2016.
  */
 public class Measure {
 

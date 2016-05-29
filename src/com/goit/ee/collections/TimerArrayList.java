@@ -5,7 +5,7 @@ import java.util.ListIterator;
 import java.util.Random;
 
 /**
- * Created by Сергей on 25.05.2016.
+ * Created by Mykhailenko Svitlana on 25.05.2016.
  */
 public class TimerArrayList  extends TimerCollection {
     private ArrayList<Integer> list = new ArrayList<>();

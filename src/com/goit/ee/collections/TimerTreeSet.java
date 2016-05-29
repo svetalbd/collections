@@ -6,7 +6,7 @@ import java.util.Random;
 import java.util.TreeSet;
 
 /**
- * Created by Сергей on 25.05.2016.
+ * Created by Mykhailenko Svitlana on 25.05.2016.
  */
 public class TimerTreeSet extends TimerCollection {
     private TreeSet<Integer> treeSet = new TreeSet<Integer>();

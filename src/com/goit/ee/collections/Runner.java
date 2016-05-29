@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * Created by Сергей on 25.05.2016.
+ * Created by Mykhailenko Svitlana on 25.05.2016.
  */
 public class Runner {
     public static void main(String[] args) {

@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.ObjectOutputStream;
 
 /**
- * Created by Сергей on 27.05.2016.
+ * Created by Mykhailenko Svitlana on 27.05.2016.
  */
 public class Table {
     final static int[] NUMBERS = {10000, 100000, 1000000};
