@@ -70,4 +70,9 @@ public class TimerTreeSet extends TimerCollection {
         long end = System.nanoTime();
         return result = end - start;
     }
+
+    @Override
+    public void clear(){
+        treeSet = new TreeSet<Integer>();
+    }
 }

@@ -19,4 +19,5 @@ public abstract class TimerCollection {
     abstract public long contains (int i);
     abstract public long iteratorAdd (int i);
     abstract public long iteratorRemove ();
+    abstract public void clear();
 }

@@ -80,4 +80,9 @@ public class TimerArrayList  extends TimerCollection {
         return result = end - start;
     }
 
+    @Override
+    public void clear(){
+        list = new ArrayList<>();
+    }
+
 }

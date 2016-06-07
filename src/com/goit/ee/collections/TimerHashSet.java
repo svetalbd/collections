@@ -66,4 +66,9 @@ public class TimerHashSet extends TimerCollection {
         long end = System.nanoTime();
         return result = end - start;
     }
+
+    @Override
+    public void clear(){
+        hashSet = new HashSet<Integer>();
+    }
 }

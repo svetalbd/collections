@@ -76,4 +76,9 @@ public class TimerLinkedList extends TimerCollection {
         long end = System.nanoTime();
         return result = end - start;
     }
+
+    @Override
+    public void clear(){
+        linkedList = new LinkedList<Integer>();
+    }
 }
